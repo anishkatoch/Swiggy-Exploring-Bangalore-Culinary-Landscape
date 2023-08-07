@@ -90,25 +90,16 @@
 
 # <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Insights 
 
-**1. Indiranagar has the highest average rating of 4.7 among all the locations.**
+**1. The maximum restaurant occupancy in Bangalore varies across different areas, with Indiranagar having the highest at 20.16%, followed closely by Btm Layout at 20.93%, and Koramangala at 16.09%.**
 
-**2. Brigade Road and Frazer Town both have an average rating of 4.4, which is the second-highest after Indiranagar.**
+**2. 
+The highest delivery review number indicates areas with restaurants that may have lower ratings. Considering these locations for opening a new restaurant can present an opportunity to attract customers seeking better dining experiences.**
 
-**3. Richmond Town has the highest average price_for_one of 1750, which is significantly higher than other locations.**
+**3. To ensure customer satisfaction, our focus will be on minimizing delivery time. Swift and efficient food delivery can significantly enhance the overall customer experience.**
 
-**4. The highest number of reviews are received by locations such as Brigade Road, Jayanagar, JP Nagar, Koramangala, Shivaji Nagar, and Vignana Nagar.**
+**4. By analyzing the number of restaurants opened for each cuisine, we can identify popular cuisines in Bangalore. Incorporating these sought-after cuisines into our restaurant's menu can broaden our customer base and increase our restaurant's appeal. Offering a diverse range of popular cuisines can create a delightful dining experience for our customers.**
 
-**5. The lowest average rating is in Ashok Nagar with a rating of 2.4.**
 
-**6. The highest average review number is 10,000 for several locations such as 4th Block, 7th Block, and Richmond Town, indicating that these locations are highly popular among customers.**
-
-**7. Indiranagar has the highest maximum rating of 4.7 with 14 restaurants having this rating.  of 4.5**
-
-**8. Jayanagar also has a maximum rating of 4.7 but with 12 restaurants having this rating.**
-
-**9. Banashankari has a maximum rating with 9 restaurants having this rating.**
-
-**10.The maximum price for one serving of food or meal is also the highest in Richmond Town, with a price of 1750. Other locations with high maximum prices include St Marks Road with a price of 650 and Ashok Nagar with a price of 375.**
 
  #  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Future Scope
 ## The aim of the Project is to:
