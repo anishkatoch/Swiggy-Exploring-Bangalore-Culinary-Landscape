@@ -112,13 +112,22 @@ The highest delivery review number indicates areas with restaurants that may hav
  #  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Future Scope
 ## The aim of the Project is to:
 
+
 **Market Analysis and Expansion: Identify areas with high demand for quality dining experiences based on low-rated restaurants and high delivery review numbers. Open new restaurants in these locations to attract customers seeking better food options.**
+
+
 
 **Efficient Delivery System: Implement a robust and efficient delivery system to minimize delivery time. Invest in advanced technology and logistics to ensure swift and timely delivery, enhancing customer satisfaction.**
 
+
+
 **Menu Diversification: Incorporate popular cuisines into the restaurant's menu to cater to a broader audience. Monitor customer preferences and introduce new dishes that resonate with the local clientele.**
 
+
+
 **Customer Feedback and Improvement: Actively gather customer feedback to identify areas for improvement in service, quality, and overall customer experience.**
+
+
 
 **Brand Promotion and Marketing: Develop a strategic marketing plan to promote the restaurant's unique offerings. Utilize digital marketing and partnerships with food influencers to increase brand visibility and attract a larger customer base.**
 
