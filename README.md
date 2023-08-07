@@ -13,8 +13,8 @@
 | -------------   | ------------- |
 | **Project Scraping Swiggy**  | This file contains the ipynb code of Web Scraping.  |
 | **Swiggy excel part** | This file contains the cleaning part of scraped data. |
-| **Swiggy _Table**  | This file contains the dashboard file that is created using Excel |
-| **FOOD DELIVERY ANALYSIS** | This file contains the presentation on this project|
+| **Project Swiggy**  | This file contains the dashboard file that is created using Power BI. |
+| **Swiggy ppt** | This file contains the presentation on this project.|
 
 <br>
 
@@ -32,7 +32,7 @@
   
     o	Best location to open a restaurant in Bengaluru.  
   
-    o	Top famous cuisines  based on area. 
+    o	Menu offerring and prices for new restaurant
   
 
 <br>
@@ -79,6 +79,14 @@
 ![image](https://github.com/anishkatoch/Swiggy-Remote-Kitchen/assets/130006013/82e437a3-ab0a-450f-85c7-5b1587e29abc)
 
 
+# BEST LOCATION TO OPEN A RESTAURANT
+![image](https://github.com/anishkatoch/Swiggy-Remote-Kitchen/assets/130006013/850e91d2-0441-4681-beab-1fb744017654)
+
+
+# MENU OFFERING AND PRICING FOR NEW RESTAURANT
+![image](https://github.com/anishkatoch/Swiggy-Remote-Kitchen/assets/130006013/d20871a4-6188-4d54-b6cd-91bfc7a3ffc1)
+
+
 
 #  <img src="https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif" width="48" height="48" > DASHBOARD
 ![image](https://github.com/anishkatoch/Swiggy-Remote-Kitchen/assets/130006013/535bd843-8382-4bc2-86c3-ab58a33610d3)
@@ -104,10 +112,15 @@ The highest delivery review number indicates areas with restaurants that may hav
  #  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Future Scope
 ## The aim of the Project is to:
 
-**Assist the Enterpreneurs interested in entering Restaurant's Business with useful insights like most loved cuisines, locations with high business potential, prices that they can think of charging for dishes etc.**
+**Market Analysis and Expansion: Identify areas with high demand for quality dining experiences based on low-rated restaurants and high delivery review numbers. Open new restaurants in these locations to attract customers seeking better food options.**
 
-**Help the existing Restaurant owners with the Data of their performance compared to others, new cuisines they can opt for business expansion, optimum prices that they can charge etc.**
+**Efficient Delivery System: Implement a robust and efficient delivery system to minimize delivery time. Invest in advanced technology and logistics to ensure swift and timely delivery, enhancing customer satisfaction.**
 
-**To look for the level of Customer's satisfaction and to help Swiggy in finding out the locations and the restaurants they need to work upon for betterment of the business.**
+**Menu Diversification: Incorporate popular cuisines into the restaurant's menu to cater to a broader audience. Monitor customer preferences and introduce new dishes that resonate with the local clientele.**
 
-**Empowerment of common people with the relevant information that can help them to establish succesful food business, generate employment and aid to the raising employment rate of the country.**
+**Customer Feedback and Improvement: Actively gather customer feedback to identify areas for improvement in service, quality, and overall customer experience.**
+
+**Brand Promotion and Marketing: Develop a strategic marketing plan to promote the restaurant's unique offerings. Utilize digital marketing and partnerships with food influencers to increase brand visibility and attract a larger customer base.**
+
+
+
