@@ -4,7 +4,7 @@
 
 **Food Delivery Analysis**
 
-**Swiggy has rapidly grown to become one of the most popular food delivery services in India. Swiggy's platform allows users to order food from a wide range of restaurants in their area and have it delivered to their doorstep in a timely and convenient manner. Swiggy also offers a range of features such as real-time order tracking, in-app chat support, and multiple payment options to enhance the user experience. In addition to food delivery, Swiggy has also expanded into other areas such as hyperlocal delivery, groceries, and medicine delivery. As of 2021, Swiggy operates in more than 500 cities across India and has a strong network of delivery partners and restaurant partners.**
+**Swiggy, an ever-expanding food delivery service in India, has achieved remarkable popularity. With its user-friendly platform, Swiggy offers a vast selection of restaurants to order from, delivering delicious meals directly to customers' doorsteps with utmost convenience. The platform boasts real-time order tracking, in-app chat support, and multiple payment options, elevating the overall user experience. Beyond food delivery, Swiggy has ventured into hyperlocal delivery, groceries, and medicine delivery, broadening its reach and impact. As of 2021, Swiggy operates in over 500 Indian cities, boasting a robust network of delivery and restaurant partners, making it a leading player in the food delivery industry.**
 <br>
 <br>
 # <img src="https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif" width="48" height="48"> **User's Manual**
@@ -22,17 +22,13 @@
 
     o	Area-wise distribution of restaurant.
   
-    o	Cuisines wise Cheap and Expensive restaurant.
+    o	Delivery review number is greater than 1000.
   
-    o	Location with Maximum number of restaurant where the Delivery_review_number is greater than 1000.
+    o	Location wise less rated restaurant.
   
-    o	Location wise Maximum number of less rated restaurant.
-  
-    o	Area-wise expensive and cheap restaurant.
+    o	Average delivery time by location
   
     o	Number of restaurant  for each type of Cuisines.
-  
-    o	Area-wise distribution of restaurant.
   
     o	Best location to open a restaurant in Bengaluru.  
   
@@ -45,20 +41,18 @@
 # <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Quick Start
 
 
-    1. Started with scrapping of the data from Swiggy's website with Python via Beatiful Soup and Selenium Librabies and saving it into excel files.
+    1. Extracted data from Swiggy's website using Python (Beautiful Soup and Selenium) and saved it in Excel files.
     
-    2. Did the Data cleaning part with the help of Pandas and Power Query (MS Excel), imported the CSVs into Python Jyputer Notebook for further analysis. 
+    2. Cleaned the data with Pandas and Power Query (MS Excel), then imported the CSVs into Python Jupyter Notebook for analysis.
     
-    3. Exported all the tables from Notebook to MS Excel and created required tables to gain some insights.
+    3. Analyzed the data in MS Excel, employing Pivot tables and charts for insights.
     
-    5. Performed in depth analysis of the data in MS Excel using Pivot tables and charts.
+    4. Created various charts to enhance data visualization.
     
-    6. Created different charts from the table for better understanding of the data.
+    5. Designed an interactive dashboard for better visual representation.
     
-    7. Also Designed a Interactive Dashboard from the charts for better visualisation
+    6. Summarized the in-depth analysis in a PowerPoint presentation, including key insights and conclusions.
     
-    8. Created a Powerpoint presentation with all the insights and the conclusions listed with the in depth analysis.
-   
 
 
 
