@@ -154,3 +154,35 @@ The highest delivery review number indicates areas with restaurants that may hav
 
 
 
+
+ #  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Limitations:
+ 
+
+**1. Data Accuracy:** The accuracy of the analysis heavily relies on the accuracy and completeness of the scraped data from the Swiggy website. Inaccuracies or missing data could impact the validity of the insights.
+
+**2. Data Representativeness:** The analysis is based on the data available on the Swiggy website at a specific point in time. This data might not represent the entire restaurant landscape accurately, and restaurant information can change over time.
+
+**3. Scope of Analysis:** The analysis focuses on specific aspects of Swiggy data, such as restaurant distribution, delivery reviews, and menu offerings. It may not cover all relevant factors that influence the success of a restaurant on the platform.
+
+**4. Dependency on Web Structure:** The project relies on the structure of the Swiggy website. Any changes in the website's structure or data presentation may disrupt the data scraping process.
+
+**5. Local Context:** The project focuses on restaurant data in Bangalore, India. The insights and recommendations may not be directly applicable to other cities or regions with different market dynamics and consumer preferences.
+
+
+
+ #  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Challenges:
+
+
+**1. Data Scraping Complexity:** Web scraping can be challenging, especially from dynamic websites like Swiggy, where data is loaded dynamically through JavaScript. Handling these dynamic elements and ensuring accurate and complete data retrieval can be a challenge.
+
+**2. Data Cleaning and Preparation:** After scraping the data, cleaning and preprocessing it for analysis can be time-consuming. Dealing with missing values, inconsistencies, and formatting issues in the scraped data can require significant effort.
+
+**3. Data Volume:** Depending on the extent of data scraped, handling and processing a large volume of data can be computationally intensive, potentially requiring specialized infrastructure and efficient data management techniques.
+
+**4.Data Visualization:** Designing effective and informative visualizations for the analysis results, as seen in the dashboard, can be a challenge. Ensuring that the visualizations convey insights clearly and concisely to the audience is crucial.
+
+**5.Interpreting and Actionable Insights:** Drawing meaningful conclusions and actionable insights from the data analysis can be challenging. It's important to translate data findings into practical recommendations and strategies for the business.
+
+
+
+
