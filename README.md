@@ -156,7 +156,12 @@ The highest delivery review number indicates areas with restaurants that may hav
 
 
 
+
+
 ## Conclusion:
+
+
+
 -  The Swiggy Remote Kitchen project showcases the power of data analysis in the food delivery industry.
 -  It offers actionable recommendations for restaurant owners and Swiggy to enhance their services and customer experiences.
 -  As the food delivery market continues to evolve, data-driven insights like these will play an increasingly pivotal role in driving success and customer satisfaction.
