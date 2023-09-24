@@ -20,7 +20,11 @@ Swiggy, an ever-expanding food delivery service in India, has achieved remarkabl
 
 <br>
 <br>
+
+
 # <img src="https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif" width="48" height="48"> **User's Manual**
+
+
 
 | Files| Description |
 | -------------   | ------------- |
@@ -30,6 +34,9 @@ Swiggy, an ever-expanding food delivery service in India, has achieved remarkabl
 | **Swiggy ppt** | This file contains the presentation on this project.|
 
 <br>
+
+
+
 
 # **Analysis**
 
@@ -50,6 +57,9 @@ Swiggy, an ever-expanding food delivery service in India, has achieved remarkabl
 
 <br>
 <br>
+
+
+
 
 # <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Quick Start
 
@@ -72,31 +82,31 @@ Swiggy, an ever-expanding food delivery service in India, has achieved remarkabl
 
 
 
-# AREA WISE DISTRIBUTION OF RESTAURANT
+## Arae wise distribution of restaurant 
 ![image](https://github.com/anishkatoch/Swiggy-Remote-Kitchen/assets/130006013/195b20e5-8681-4a2b-923b-a7f08ae26a7e)
 
 
-# DELIVERY REVIEW
+## Delivery review
 ![image](https://github.com/anishkatoch/Swiggy-Remote-Kitchen/assets/130006013/95924eb7-26a3-4287-a9df-41b4ee5dba45)
 
 
-# LOCATION WISE LESS RATED RESTAURANT
+## Location wise less rated restaurant
 ![image](https://github.com/anishkatoch/Swiggy-Remote-Kitchen/assets/130006013/d71d6a7a-44ba-42e8-819a-e993e336a89d)
 
 
-# AVERAGE DELIVERY TIME BY LOCATION
+## AVERAGE DELIVERY TIME BY LOCATION
 ![image](https://github.com/anishkatoch/Swiggy-Remote-Kitchen/assets/130006013/77792301-5b85-4c35-9d34-fb57fafcd111)
 
 
-# NUMBER OF RESTAURANT FOR EACH OF CUISINE
+## Number of restaurant for each of cuisine 
 ![image](https://github.com/anishkatoch/Swiggy-Remote-Kitchen/assets/130006013/82e437a3-ab0a-450f-85c7-5b1587e29abc)
 
 
-# BEST LOCATION TO OPEN A RESTAURANT
+## Best location to open a restaurant
 ![image](https://github.com/anishkatoch/Swiggy-Remote-Kitchen/assets/130006013/850e91d2-0441-4681-beab-1fb744017654)
 
 
-# MENU OFFERING AND PRICING FOR NEW RESTAURANT
+## Menu offering and pricing for new restaurant
 ![image](https://github.com/anishkatoch/Swiggy-Remote-Kitchen/assets/130006013/d20871a4-6188-4d54-b6cd-91bfc7a3ffc1)
 
 
@@ -111,38 +121,36 @@ Swiggy, an ever-expanding food delivery service in India, has achieved remarkabl
 
 # <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Insights 
 
-**1. The maximum restaurant occupancy in Bangalore varies across different areas, with Indiranagar having the highest at 20.16%, followed closely by Btm Layout at 20.93%, and Koramangala at 16.09%.**
+**1.**  The maximum restaurant occupancy in Bangalore varies across different areas, with Indiranagar having the highest at 20.16%, followed closely by Btm Layout at 20.93%, and Koramangala at 16.09%.
 
-**2. 
-The highest delivery review number indicates areas with restaurants that may have lower ratings. Considering these locations for opening a new restaurant can present an opportunity to attract customers seeking better dining experiences.**
+**2.** 
+The highest delivery review number indicates areas with restaurants that may have lower ratings. Considering these locations for opening a new restaurant can present an opportunity to attract customers seeking better dining experiences.
 
-**3. To ensure customer satisfaction, our focus will be on minimizing delivery time. Swift and efficient food delivery can significantly enhance the overall customer experience.**
+**3.**  To ensure customer satisfaction, our focus will be on minimizing delivery time. Swift and efficient food delivery can significantly enhance the overall customer experience.
 
-**4. By analyzing the number of restaurants opened for each cuisine, we can identify popular cuisines in Bangalore. Incorporating these sought-after cuisines into our restaurant's menu can broaden our customer base and increase our restaurant's appeal. Offering a diverse range of popular cuisines can create a delightful dining experience for our customers.**
+**4.** By analyzing the number of restaurants opened for each cuisine, we can identify popular cuisines in Bangalore. Incorporating these sought-after cuisines into our restaurant's menu can broaden our customer base and increase our restaurant's appeal. Offering a diverse range of popular cuisines can create a delightful dining experience for our customers.
 
 
 
  #  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Future Scope
-## The aim of the Project is to:
 
 
-**Market Analysis and Expansion: Identify areas with high demand for quality dining experiences based on low-rated restaurants and high delivery review numbers. Open new restaurants in these locations to attract customers seeking better food options.**
-
-
-
-**Efficient Delivery System: Implement a robust and efficient delivery system to minimize delivery time. Invest in advanced technology and logistics to ensure swift and timely delivery, enhancing customer satisfaction.**
+**1. Market Analysis and Expansion:** Identify areas with high demand for quality dining experiences based on low-rated restaurants and high delivery review numbers. Open new restaurants in these locations to attract customers seeking better food options.
 
 
 
-**Menu Diversification: Incorporate popular cuisines into the restaurant's menu to cater to a broader audience. Monitor customer preferences and introduce new dishes that resonate with the local clientele.**
+**2. Efficient Delivery System:** Implement a robust and efficient delivery system to minimize delivery time. Invest in advanced technology and logistics to ensure swift and timely delivery, enhancing customer satisfaction.
 
 
 
-**Customer Feedback and Improvement: Actively gather customer feedback to identify areas for improvement in service, quality, and overall customer experience.**
+**3. Menu Diversification:** Incorporate popular cuisines into the restaurant's menu to cater to a broader audience. Monitor customer preferences and introduce new dishes that resonate with the local clientele.
+
+
+**4. Customer Feedback and Improvement:** Actively gather customer feedback to identify areas for improvement in service, quality, and overall customer experience.
 
 
 
-**Brand Promotion and Marketing: Develop a strategic marketing plan to promote the restaurant's unique offerings. Utilize digital marketing and partnerships with food influencers to increase brand visibility and attract a larger customer base.**
+**5. Brand Promotion and Marketing:** Develop a strategic marketing plan to promote the restaurant's unique offerings. Utilize digital marketing and partnerships with food influencers to increase brand visibility and attract a larger customer base.
 
 
 
