@@ -2,6 +2,19 @@
 
 # Swiggy-Remote-Kitchen
 
+
+
+
+
+
+![image](https://github.com/anishkatoch/Swiggy-Remote-Kitchen/assets/130006013/46aae3d8-445f-4262-852d-6099a91a2cb4)
+
+
+
+
+
+
+
 **Food Delivery Analysis**
 
 **Swiggy, an ever-expanding food delivery service in India, has achieved remarkable popularity. With its user-friendly platform, Swiggy offers a vast selection of restaurants to order from, delivering delicious meals directly to customers' doorsteps with utmost convenience. The platform boasts real-time order tracking, in-app chat support, and multiple payment options, elevating the overall user experience. Beyond food delivery, Swiggy has ventured into hyperlocal delivery, groceries, and medicine delivery, broadening its reach and impact. As of 2021, Swiggy operates in over 500 Indian cities, boasting a robust network of delivery and restaurant partners, making it a leading player in the food delivery industry.**
