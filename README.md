@@ -82,31 +82,31 @@ Swiggy, an ever-expanding food delivery service in India, has achieved remarkabl
 
 
 
-## Arae wise distribution of restaurant 
+-  ## Arae wise distribution of restaurant 
 ![image](https://github.com/anishkatoch/Swiggy-Remote-Kitchen/assets/130006013/195b20e5-8681-4a2b-923b-a7f08ae26a7e)
 
 
-## Delivery review
+-  ## Delivery review
 ![image](https://github.com/anishkatoch/Swiggy-Remote-Kitchen/assets/130006013/95924eb7-26a3-4287-a9df-41b4ee5dba45)
 
 
-## Location wise less rated restaurant
+-  ## Location wise less rated restaurant
 ![image](https://github.com/anishkatoch/Swiggy-Remote-Kitchen/assets/130006013/d71d6a7a-44ba-42e8-819a-e993e336a89d)
 
 
-## AVERAGE DELIVERY TIME BY LOCATION
+-  ## AVERAGE DELIVERY TIME BY LOCATION
 ![image](https://github.com/anishkatoch/Swiggy-Remote-Kitchen/assets/130006013/77792301-5b85-4c35-9d34-fb57fafcd111)
 
 
-## Number of restaurant for each of cuisine 
+-  ## Number of restaurant for each of cuisine 
 ![image](https://github.com/anishkatoch/Swiggy-Remote-Kitchen/assets/130006013/82e437a3-ab0a-450f-85c7-5b1587e29abc)
 
 
-## Best location to open a restaurant
+-  ## Best location to open a restaurant
 ![image](https://github.com/anishkatoch/Swiggy-Remote-Kitchen/assets/130006013/850e91d2-0441-4681-beab-1fb744017654)
 
 
-## Menu offering and pricing for new restaurant
+-  ## Menu offering and pricing for new restaurant
 ![image](https://github.com/anishkatoch/Swiggy-Remote-Kitchen/assets/130006013/d20871a4-6188-4d54-b6cd-91bfc7a3ffc1)
 
 
