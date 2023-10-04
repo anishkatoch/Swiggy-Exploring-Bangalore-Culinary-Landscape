@@ -1,6 +1,6 @@
 
 
-# Swiggy Remote Kitchen
+# Swiggy: Exploring Bangalore's Culinary Landscape
 
 
 
