@@ -38,6 +38,34 @@ Swiggy, an ever-expanding food delivery service in India, has achieved remarkabl
 
 
 
+
+
+## Problem Statement
+
+
+
+
+In the ever-evolving landscape of the Indian food delivery industry, Swiggy has emerged as a prominent player, providing a convenient and diverse dining experience. However, to maintain its competitive edge and continue its growth trajectory, Swiggy faces the challenge of understanding the dynamics of restaurant distribution, customer reviews, delivery times, cuisine preferences, and more. This project seeks to address these challenges through web scraping, data analysis, and visualization. By leveraging data from Swiggy's platform, we aim to uncover valuable insights and opportunities for improvement. This includes identifying underperforming areas, optimizing delivery times, and suggesting popular cuisines for new restaurant ventures. Through this analysis, we intend to provide actionable recommendations that can help Swiggy enhance its services, expand its reach, and ultimately provide an even better dining experience for its customers.
+
+
+
+
+
+
+## Aim:
+
+
+
+
+The primary aim of this project is to harness the power of data to drive Swiggy's growth and improve customer satisfaction. We aim to provide a comprehensive analysis of the Bangalore food delivery landscape, offering insights into restaurant distribution, customer preferences, and operational efficiency. By doing so, we aspire to assist restaurant owners and Swiggy in making informed decisions to enhance their services and offerings. Additionally, we aim to contribute to Swiggy's long-term success by identifying areas for expansion, optimizing delivery processes, and suggesting popular cuisines to cater to the diverse palate of Bangalore's residents. Through data-driven insights and recommendations, this project endeavors to empower Swiggy to stay at the forefront of India's food delivery industry.
+
+
+
+
+
+
+
+
 # **Analysis**
 
     o	Area-wise distribution of restaurant.
